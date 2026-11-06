@@ -1,8 +1,8 @@
 # ToshTunes
 
 A Windows music player for your **Spotify Premium** account and your own music files, with
-karaoke-style lyrics (Korean and Japanese romanization), an equalizer, a mini lyrics window,
-listening stats and beat-snapped loops.
+karaoke-style lyrics (Korean and Japanese romanization), music videos, an equalizer, a mini
+lyrics window, listening stats and beat-snapped loops. Still in beta.
 
 ## Download
 
@@ -20,12 +20,15 @@ through a store. Click **More info**, then **Run anyway**.
 - About 5 minutes on the first launch to make your own free Spotify developer app. ToshTunes
   walks you through it step by step, with copy buttons for everything you type.
 - Optional: [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) for the equalizer
+  (ToshTunes walks you through it)
+- Optional: your own free YouTube key, to play music videos inside ToshTunes (without one,
+  "Watch MV" opens a YouTube search in your browser)
 
 ## Privacy
 
 Your sign-in (encrypted by Windows), library, play log, stats and settings stay on your PC.
-ToshTunes talks to Spotify (your account and music), LRCLIB (song names, to find lyrics) and
-this page (to check for updates). No tracking, no ads, no accounts.
+ToshTunes talks to Spotify (your account and music), LRCLIB (song names, to find lyrics), this
+page (to check for updates) and, if you watch music videos, YouTube. No tracking, no ads, no accounts.
 
 ## Good to know
 
